@@ -1,0 +1,27 @@
+_repo: The-Childhood-of-Rome_36296
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36296-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lamprey, Louise
+    alias: Lamprey, L. (Louise)
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '1843'
+    url: http://www.gutenberg.org/2009/agents/1843
+description: Stories of the founding of Rome and the children of ancient Rome.
+gutenberg_issued: '2011-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36296'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children -- Italy -- Rome'
+title: The Childhood of Rome
+url: http://www.gutenberg.org/ebooks/36296
